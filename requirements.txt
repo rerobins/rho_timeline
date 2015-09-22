@@ -1,0 +1,2 @@
+https://github.com/rerobins/rhobot_framework/archive/master.zip#egg=rhobot-1.1.0dev1
+https://github.com/rerobins/SleekXMPP/archive/rhobot.zip#egg=sleekxmpp==1.4.0.dev0

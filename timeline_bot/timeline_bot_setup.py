@@ -10,4 +10,5 @@ application.pre_init(load_components)
 
 @application.post_init
 def post_initialization(bot):
-    bot.register_plugin('maintainer')
+    bot.register_plugin('timeline_maintainer')
+    bot.register_plugin('create_listener')
